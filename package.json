@@ -1,0 +1,16 @@
+{
+  "name": "wat-experiments",
+  "private": true,
+  "scripts": {
+    "dev": "wattpm dev",
+    "build": "wattpm build",
+    "start": "wattpm start"
+  },
+  "dependencies": {
+    "@platformatic/composer": "^2.0.0-alpha.23",
+    "wattpm": "^2.2.1"
+  },
+  "workspaces": [
+    "web/*"
+  ]
+}
