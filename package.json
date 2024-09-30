@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@platformatic/composer": "^2.0.0-alpha.23",
+    "@platformatic/next": "^2.2.1",
     "wattpm": "^2.2.1"
   },
   "workspaces": [
